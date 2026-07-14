@@ -202,9 +202,8 @@ requirements.txt
 
 ---
 
-## Dashboard Preview
+## Dashboard Preview 
 
-(Add dashboard screenshots here)
 
 ---
 
